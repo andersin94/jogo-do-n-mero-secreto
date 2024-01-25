@@ -1,3 +1,15 @@
-Jogo do Número Secreto.
-Projeto desenvolvido durante o Curso de Lógica de Programação da Alura.
-Tecnologias utilizadas: HTML, CSS e Javascript.
+# Jogo do Número Secreto
+
+Jogo do Número Secreto, desenvolvido durante o curso de HTML e CSS da Alura.
+
+## Tecnologias Utilizadas
+
+HTML.
+
+CSS.
+
+## Desenvolvedor
+
+Anderson Lucas Lisbôa
+
+Alura
